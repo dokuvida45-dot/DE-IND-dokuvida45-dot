@@ -1,8 +1,8 @@
 # IA10: Final individual defence and contribution
 
-Team/project: [REPLACE]. Repos: [REPLACE]. Final release tag: [REPLACE]
+Team/project: CTS. Repos: https://github.com/mrquao455/softwork-group2 Final release tag: [REPLACE]
 
-## My contribution (one real thing)
+## My contribution 
 What I did and why it mattered: [REPLACE]
 Linked requirement/story/NFR/issue: [REPLACE]
 Evidence (issue, PR, commit, review comment, test, release): [REPLACE]
