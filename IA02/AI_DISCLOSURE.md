@@ -1,12 +1,7 @@
 # AI Disclosure (IA02)
 
-AI used: Yes / No
-Date:
-Tool:
-Purpose:
-Prompt summary:
-What I accepted:
-What I changed or rejected:
-How I verified it (checked against the repo, ran tests, etc.):
-
+AI used: Yes 
+Date:21/10/26
+Tool:Claude 
+Purpose: I use it to draft the project.
 I understand that I must be able to explain and defend every part of this section.
