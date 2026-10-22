@@ -12,7 +12,7 @@ Privacy rule: no formal names, student IDs, rosters or peer evaluations in this 
 | IA02 Client interview memo | IA02/ | client-memo.md | none required |
 | IA03 Traceability card | IA03/ | traceability-card.md | none required |
 | IA04 ADR | IA04/ | adr.md | [REPLACE] |
-| IA05 API contract | IA05/ | API_CONTRACT.md | [REPLACE] |
+| IA05 API contract | IA05/ | API_CONTRACT.md | https://youtu.be/M6etq67Mqlw?si=FF9YRTxjQ2n_FL4P |
 | IA06 Data model | IA06/ | data-model.md |https://youtu.be/SLcgDFir8WA |
 | IA07 Tests, PR, CI | IA07/ | test-evidence.md | [REPLACE] |
 | IA08 Deployment | IA08/ | deployment-readiness.md | https://youtu.be/RvRu-ziRZ54 |
